@@ -1,0 +1,6 @@
+### Issue Title: [User Profile Customization]
+
+#### As a user, I need a way to customize my profile, so that I can personalize my user experience.
+
+#### Acceptance Criteria:
+- [ ] Given I am on the profile settings page, when I update my profile information, then the changes are saved and reflected in my profile.
